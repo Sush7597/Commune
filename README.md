@@ -9,6 +9,7 @@ https://commune-7597.web.app/
   - Single Page Web Appilcation
   - LogIn using Google Sign In Method
   - Logout by clicking on Profile Pic
+  - Complete Auth Management System
   - Real-Time Chatting with Community Members
   - Make Different Chat-Rooms / Channels
   - Chat Among various channels simultaneously
